@@ -1,0 +1,264 @@
+competition: "World Brewers Cup"
+url: https://www.worldbrewerscup.org/past-rankings
+organizator:
+  name: "World Coffee Events"
+  official_web_site: https://www.worldcoffeeevents.org
+events:
+  - year: 2011
+    date:
+      from: 2011-06-22
+      to: 2011-06-24
+    location:
+      country: The Netherlands
+      city: Maastricht
+    ranks:
+      - rank: 1
+        competitor: Keith O'Sullivan
+        represents: Independent
+        country: Ireland
+      - rank: 2
+        competitor: James Hoffmann
+        represents: Square Mile Coffee Roasters
+        country: United Kingdom
+      - rank: 3
+        competitor: Luca Costanzo
+        represents: Independent
+        country: Australia
+      - rank: 4
+        competitor: Stefanos Domatiotis
+        represents: taf
+        country: Greece
+      - rank: 5
+        competitor: Miklós Gál
+        represents: Semiramis Ltd.
+        country: Hungary
+      - rank: 6
+        competitor: Tomasz Dziedzic
+        represents: Relaks
+        country: Poland
+  - year: 2012
+    date:
+      from: 2012-06-12
+      to: 2012-06-15
+    location:
+      name: Messe Wien Exhibition Congress Center
+      country: Austria
+      postal: 1020
+      city: Wien
+      address line: Messeplatz 1
+    ranks:
+      - rank: 1
+        competitor: Matt Perger
+        country: Australia
+        score: 83.75
+      - rank: 2
+        competitor: Andy Sprenger
+        country: United States
+        score: 83.21
+      - rank: 3
+        competitor: Christos Loukakis
+        country: Greece
+        score: 81.96
+      - rank: 4
+        competitor: Anthony Benda
+        country: Canada
+        score: 78.63
+      - rank: 5
+        competitor: James Bailey
+        country: United Kingdom
+        score: 78.45
+      - rank: 6
+        competitor: Robert Gruber
+        country: Austria
+        score: 78.21
+  - year: 2013
+    date:
+      from: 2013-05-23
+      to: 2013-05-26
+    location:
+      name: Melbourne Showgrounds
+      country: Australia
+      state: Victoria
+      city: Melbourne
+      postal: 3032
+      address line: Epsom Rd, Ascot Vale
+    ranks:
+      - rank: 1
+        competitor: Erin Mccarthy
+        country: United States
+        score: 83.04
+      - rank: 2
+        competitor: Jung Insung
+        country: South Korea
+        score: 80.89
+      - rank: 3
+        competitor: Josh Tarlo
+        country: Canada
+        score: 77.62
+      - rank: 4
+        competitor: Sang Ho Park United
+        country: Kingdom
+        score: 74.40
+      - rank: 5
+        competitor: Carolina Franco De Souza
+        country: Brazil
+        score: 73.57
+      - rank: 6
+        competitor: Tibor Várady
+        country: Hungary
+        score: 72.68
+  - year: 2014
+    date:
+      from: 2014-06-10
+      to: 2014-06-12
+    location:
+      name: Fiera Rimini
+      country: Italy
+      city: Rimini
+      postal: 47921
+      address line: Via Emilia, 155
+    ranks:
+      - rank: 1
+        competitor: Stefanos Domatiotis
+        represents: Taf Coffee
+        country: Greece
+        score: 91.25
+      - rank: 2
+        competitor: Rubens Gardelli
+        represents: Gardelli Specialty Coffees
+        country: Italy
+        score: 87.62
+      - rank: 3
+        competitor: Asli Yaman
+        represents: Soyuz Coffee Roasting
+        country: Turkey
+        score: 86.19
+      - rank: 4
+        competitor: Odd-Steinar Tollefson
+        represents: Supreme Roastworks
+        country: Norway
+        score: 83.04
+      - rank: 5
+        competitor: Ju-Ying (Lulu) Wei
+        represents: Café Lulu Co., Ltd.
+        country: Taiwan
+        score: 77.86
+      - rank: 6
+        competitor: Petra Strelecka
+        represents: Industra Coffee
+        country: Czech Republic
+        score: 75.54
+  - year: 2015
+    date:
+      from: 2015-06-16
+      to: 2015-06-18
+    location:
+      name: Svenska Mässan
+      country: Sweden
+      city: Göteborg
+      postal: 412 94
+      address line: Mässans Gata/Korsvägen
+    ranks:
+      - rank: 1
+        competitor: Odd-Steinar Tollefsen
+        country: Norway
+        score: 239.08
+      - rank: 2
+        competitor: Konstantinos Iatridis
+        country: Greece
+        score: 237.39
+      - rank: 3
+        competitor: Benjamin Prager
+        country: Switzerland
+        score: 234.74
+      - rank: 4
+        competitor: Sarah Jean Anderson
+        country: United States
+        score: 232.57
+      - rank: 5
+        competitor: Rob Kerkhoff
+        country: The Netherlands
+        score: 223.86
+      - rank: 6
+        competitor: Ruslan Shulga
+        country: Russia
+        score: 217.64
+  - year: 2016
+    date:
+      from: 2016-06-23
+      to: 2016-06-25
+    location:
+      country: Ireland
+      city: Dublin
+    ranks:
+      - rank: 1
+        competitor: Tetsu Kasuya
+        represents: Coffee Factory
+        country: Japan
+        score: 155.59
+      - rank: 2
+        competitor: Mikaela Wallgren
+        represents: The Coffee Collective
+        country: Finland
+        score: 155.51
+      - rank: 3
+        competitor: Chad Wang
+        represents: Jascaffee China
+        country: Taiwan
+        score: 149.33
+      - rank: 4
+        competitor: Benny Wong
+        represents: The Cupping Room
+        country: Hong Kong
+        score: 147.77
+      - rank: 5
+        competitor: Todd Goldsworthy
+        represents: Klatch Coffee
+        country: Usa
+        score: 147.13
+      - rank: 6
+        competitor: Odd-steinar Tøllefsen
+        represents: Supreme Roastworks
+        country: Norway
+        score: 146.11
+  - year: 2017
+    date:
+      from: 2017-06-13
+      to: 2017-06-15
+    location:
+      name: Hungexpo
+      country: Hungary
+      city: Budapest
+      postal: 1101
+      address line: Albertirsai út 10
+    ranks:
+      - rank: 1
+        competitor: Chad Wang
+        represents: Jascaffe China
+        country: Taiwan
+        score: 149.06
+      - rank: 2
+        competitor: Sam Corra
+        represents: Ona Coffee
+        country: Australia
+        score: 146.92
+      - rank: 3
+        competitor: Stathis Koremtas
+        represents: Taf Coffee
+        country: Greece
+        score: 146.84
+      - rank: 4
+        competitor: Michael Manhart
+        represents: Independent
+        country: Austria
+        score: 145.47
+      - rank: 5
+        competitor: Constantin Hoppenz
+        represents: Bonanza Coffee
+        country: Germany
+        score: 140.69
+      - rank: 6
+        competitor: Petra Strelecka
+        represents: Industra Coffee
+        country: Czech Republic
+        score: 138.52
