@@ -134,7 +134,7 @@ events:
         country: Turkey
         score: 86.19
       - rank: 4
-        competitor: Odd-Steinar Tollefson
+        competitor: Odd-Steinar Tøllefsen
         represents: Supreme Roastworks
         country: Norway
         score: 83.04
@@ -160,7 +160,7 @@ events:
       address line: Mässans Gata/Korsvägen
     ranks:
       - rank: 1
-        competitor: Odd-Steinar Tollefsen
+        competitor: Odd-Steinar Tøllefsen
         country: Norway
         score: 239.08
       - rank: 2
@@ -217,7 +217,7 @@ events:
         country: Usa
         score: 147.13
       - rank: 6
-        competitor: Odd-steinar Tøllefsen
+        competitor: Odd-Steinar Tøllefsen
         represents: Supreme Roastworks
         country: Norway
         score: 146.11
