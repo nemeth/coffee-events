@@ -45,7 +45,7 @@ events:
       country: Austria
       postal: 1020
       city: Wien
-      address line: Messeplatz 1
+      address-line: Messeplatz 1
     ranks:
       - rank: 1
         competitor: Matt Perger
@@ -81,7 +81,7 @@ events:
       state: Victoria
       city: Melbourne
       postal: 3032
-      address line: Epsom Rd, Ascot Vale
+      address-line: Epsom Rd, Ascot Vale
     ranks:
       - rank: 1
         competitor: Erin Mccarthy
@@ -116,7 +116,7 @@ events:
       country: Italy
       city: Rimini
       postal: 47921
-      address line: Via Emilia, 155
+      address-line: Via Emilia, 155
     ranks:
       - rank: 1
         competitor: Stefanos Domatiotis
@@ -157,7 +157,7 @@ events:
       country: Sweden
       city: Göteborg
       postal: 412 94
-      address line: Mässans Gata/Korsvägen
+      address-line: Mässans Gata/Korsvägen
     ranks:
       - rank: 1
         competitor: Odd-Steinar Tøllefsen
@@ -230,7 +230,7 @@ events:
       country: Hungary
       city: Budapest
       postal: 1101
-      address line: Albertirsai út 10
+      address-line: Albertirsai út 10
     ranks:
       - rank: 1
         competitor: Chad Wang
