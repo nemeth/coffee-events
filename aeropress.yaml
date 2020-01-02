@@ -1,0 +1,78 @@
+competition: "World AeroPress Championship"
+url: https://www.worldaeropresschampionship.com
+instagram: https://www.instagram.com/aero.press/
+facebook: https://www.facebook.com/worldaeropresschampionship
+organizer:
+  name: World Aeropress Championship
+  official_web_site: https://www.worldaeropresschampionship.com
+  email: hello@aero.press
+events:
+  - year: 2017
+    date: 2017-11-09
+    location:
+      name: Alver Coffee
+      country: South Korea
+      city: Seoul
+      address-line: "34 Gangnam-daero 102-gil"
+    ranks:
+      - rank: 1
+        competitor: Paulina Miczka
+        represents: Kaffeine
+        country: England
+        recipe:
+          coffee: 35g
+          water: 370g
+          water temperature: 84°C
+          brew method: inverted
+          filter: paper
+          total brew time: 1:35
+          steps:
+            - Put 35g of coffee into your AeroPress
+            - From 0:00 to 0:15, add 150g of water
+            - From 0:15 to 0:35, stir and keep stirring
+            - At 0:35, put filter cap (with pre-wet filter) in place
+            - At 1:05, flip the AeroPress and start pressing
+            - At 1:35, stop pressing. You should have now 90ml of the concentrated brew (4.5%TDS)
+            - Add 160g – 200g of hot water and enjoy!
+        - rank: 2
+          competitor: Yusuke Narisawa
+          represents: Kaffeine
+          country: Japan
+          recipe: 
+            coffee: 28.5g
+              coarsely ground coffee: 28g
+              very finely ground coffee powder: 1.5g
+            water: 245g
+            water temperature: 85°C
+            brew method: inverted
+            filter: double paper
+            total brew time: 1:50
+            steps:
+              - Add coffee to the AeroPress
+              - Pour water and start timer
+              - Add 70g water and stir 20 times
+              - Add 100g water
+              - Put filter cap (with wet double paper filter) in place and flip the AeroPress
+              - Press slowly until 1:50
+              - Add 75g hot water
+        - rank: 3
+          competitor: Jeongsu Park
+          country: South Korea
+          recipe:
+            coffee: 30g
+            water: 230g
+            water temperature: 86°C
+            brew method: upright
+            filter: both metal & paper filter
+            total brew time: ~1:10
+            steps:
+              - Put the metal filter, then the paper filter, into the filter cap
+              - Place filter cap onto the brewer and add the coffee
+              - Add 75g water at 86C, and then stir six times
+              - Wait for 45 seconds
+              - Add 75g water at 86C, and then stir five times
+              - Put the plunger into place and wait for one minute
+              - Press down on the plunger for 10 seconds
+              - Add 150g water at 86C to the brewed coffee
+
+
